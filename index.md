@@ -63,25 +63,25 @@ Inicialmente, as tabelas foram importadas por meio da construção de um script 
 
 ### Recortes das tabelas:
 
-- **Figura 2**: Tabela usuario 
+- **Figura 2**: Tabela usuario  
 ![fig2 tabela usuario](https://github.com/user-attachments/assets/25029e05-4959-4f24-b634-56becc74410d)
   
-- **Figura 3**: Tabela comunidade 
+- **Figura 3**: Tabela comunidade  
 ![fig3 tabela_comunidade](https://github.com/user-attachments/assets/38bbf8f4-3a18-4d03-9931-0243ab158833)
   
-- **Figura 4**: Tabela sessao 
+- **Figura 4**: Tabela sessao  
 ![fig4 tabela_sessao](https://github.com/user-attachments/assets/56c568bc-f73c-4ea5-b86c-18ff414b9bf2)
 
-- **Figura 5**: Tabela sponsor 
+- **Figura 5**: Tabela sponsor  
 ![fig5 tabela sponsor](https://github.com/user-attachments/assets/513553b8-9fb6-4deb-b4f8-d5189312e333)
 
-- **Figura 6**: Tabela conteudo_forum 
+- **Figura 6**: Tabela conteudo_forum  
 ![fig6 tabela_conteudo_forum](https://github.com/user-attachments/assets/5e8226e6-3626-4c3f-8f72-14cad7f277b7)
   
-- **Figura 7**: Tabela conteudo_forum_share 
+- **Figura 7**: Tabela conteudo_forum_share  
 ![fig7 tabela_forum_share](https://github.com/user-attachments/assets/7852ab34-b4ee-44a4-b539-b29ba5935d60)
   
-- **Figura 8**: Tabela conteudo_forum_likes 
+- **Figura 8**: Tabela conteudo_forum_likes  
 ![fig8 tabela_forum_likes](https://github.com/user-attachments/assets/e3fdc6b3-d22c-4bf0-ba8d-dbecca937532)
 
 
