@@ -20,7 +20,6 @@ layout: default
 - **D** - Dashboard com insights práticos.
 
 💻 Ferramentas utilizadas: **MySQL** e **Power BI**. 
-A seguir, são apresentadas as etapas da resolução do desafio.
 
 ---
 
