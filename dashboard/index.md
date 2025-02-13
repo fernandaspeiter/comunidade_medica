@@ -9,7 +9,8 @@ layout: default
 A seguir, apresentamos o painel de resultados, destacando informações relevantes extraídas do banco de dados.
 
 Figura 14: Painel de Resultados
-[dashboard_comunidade_hospital.pdf](https://github.com/user-attachments/files/18790398/dashboard_comunidade_hospital.pdf)
+![fig14 dashboard](https://github.com/user-attachments/assets/30619833-eb46-4451-9400-43084b865527)
+ícone do dashboard: <a href="https://www.flaticon.com/free-icons/nurse" title="nurse icons">Nurse icons created by Freepik - Flaticon</a>
 
 ### Observações e ideias
 
