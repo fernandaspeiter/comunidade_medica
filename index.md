@@ -8,7 +8,7 @@ layout: default
 
 👩‍⚕️ Esse projeto surgiu a partir de um desafio de uma empresa de desenvolvimento de softwares que criou um **hub de comunidades na área médica**, conectando usuários de diferentes especialidades da medicina em todo o Brasil.
 
-> **Missão**: _lidar com os dados, projetar pipelines e fornecer insights_ para
+> **Missão do desafio**: _lidar com os dados, projetar pipelines e fornecer insights_ para
 > auxiliar os times de Marketing e Comercial a compreender o perfil dos usuários
 > e as interações que ocorrem na rede.
 
