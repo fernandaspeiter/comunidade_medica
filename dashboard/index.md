@@ -8,8 +8,13 @@ layout: default
 # Dashboard e Insights
 A seguir, apresentamos o painel de resultados, destacando informações relevantes extraídas do banco de dados.
 
-Figura 14: Painel de Resultados
-![fig14 dashboard](https://github.com/user-attachments/assets/30619833-eb46-4451-9400-43084b865527)
+Painel de Resultados
+
+<div align="center">
+   <!-- Código incorporado do Power BI aqui -->
+<iframe title="ER_comunidade_hospital" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjg2OTg0YjctOWViMy00OGUxLTk5ZTAtYmEwOWE1YWFkMWU2IiwidCI6ImM4YjE0MDZlLWYyNTUtNGEzYy1iMWZiLTAxZjg1NDUwODkyYSJ9" frameborder="0" allowFullScreen="true"></iframe>
+</div>
+
 ícone do dashboard: <a href="https://www.flaticon.com/free-icons/nurse" title="nurse icons">Nurse icons created by Freepik - Flaticon</a>
 
 ### Observações e ideias
