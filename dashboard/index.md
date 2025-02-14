@@ -10,12 +10,7 @@ A seguir, apresentamos o painel de resultados, destacando informações relevant
 
 Painel de Resultados
 
-<div align="center">
-  <iframe title="ER_comunidade_hospital" width="500"  
-    src="https://app.powerbi.com/view?r=eyJrIjoiZjg2OTg0YjctOWViMy00OGUxLTk5ZTAtYmEwOWE1YWFkMWU2IiwidCI6ImM4YjE0MDZlLWYyNTUtNGEzYy1iMWZiLTAxZjg1NDUwODkyYSJ9" 
-    frameborder="0" allowFullScreen="false">
-  </iframe>
-</div>
+<iframe title="Dashboard" width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZjg2OTg0YjctOWViMy00OGUxLTk5ZTAtYmEwOWE1YWFkMWU2IiwidCI6ImM4YjE0MDZlLWYyNTUtNGEzYy1iMWZiLTAxZjg1NDUwODkyYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ícone do dashboard: <a href="https://www.flaticon.com/free-icons/nurse" title="nurse icons">Nurse icons created by Freepik - Flaticon</a>
 
