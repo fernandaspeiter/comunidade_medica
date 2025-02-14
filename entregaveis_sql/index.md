@@ -93,10 +93,7 @@ Figura 12: Mês e ano onde cada comunidade teve o maior número de posts
 
 ## Entregável C: Consulta mostrando interações dos usuários em forma de postagens, comentários e curtidas
 
-O script deste entregável é muito extenso. Para acessá-lo, clique aqui --> <a href="script_C.sql" class="button" download>
-              <small>Download</small>
-              script_C.sql
-            </a>
+O script deste entregável é muito extenso. Para acessá-lo, clique aqui --> <a href="{{ '/script_C.sql' | relative_url }}">Script_C.sql<a>
 
 A consulta gerou uma tabela contendo as seguintes variáveis:
 - ID do usuário
