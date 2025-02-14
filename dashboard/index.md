@@ -11,7 +11,6 @@ A seguir, apresentamos o painel de resultados, destacando informações relevant
 Painel de Resultados
 
 <div align="center">
-   <!-- Código incorporado do Power BI aqui -->
 <iframe title="ER_comunidade_hospital" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjg2OTg0YjctOWViMy00OGUxLTk5ZTAtYmEwOWE1YWFkMWU2IiwidCI6ImM4YjE0MDZlLWYyNTUtNGEzYy1iMWZiLTAxZjg1NDUwODkyYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 </div>
 
