@@ -87,5 +87,5 @@ Em seguida, foi elaborado um **diagrama ER**, proporcionando uma melhor visualiz
 ![fig8 tabela_forum_likes](https://github.com/user-attachments/assets/e3fdc6b3-d22c-4bf0-ba8d-dbecca937532)
 
 
-Próxima etapa: [Entregáveis no SQL](https://fernandaspeiter.github.io/comunidade_medica/)
+Próxima etapa: <a href="{{ '/entregaveis_sql/' | relative_url }}">SQL Entregáveis</a>
 
