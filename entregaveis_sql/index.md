@@ -111,5 +111,5 @@ Figura 13: Interações dos usuários em forma de postagens, comentários e curt
 
 
 ### Próxima Etapa
-[Adicionar o link para a próxima seção]
+<a href="{{ '/dashboard/' | relative_url }}">Dashboard</a>
 
