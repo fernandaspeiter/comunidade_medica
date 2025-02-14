@@ -17,7 +17,7 @@ A seguir, apresentamos o painel de resultados, destacando informações relevant
 
 
 
-## ✅ Panorama Geral da Rede
+## Panorama Geral da Rede
 - A rede possui 37 mil usuários, sendo 26 mil médicos distribuídos em 1.324 especialidades, além de 11 mil outros profissionais.
 
 ## 👨‍⚕️ Especialidades Médicas
@@ -27,7 +27,7 @@ As TOP 5 especialidades na plataforma são:
 3️⃣ Cardiologia (5%)  
 4️⃣ Endocrinologia e Metabologia (4%)  
 5️⃣ Ginecologia e Obstetrícia (3%)  
-🎯 Para essas categorias, podem ser exploradas oportunidades de patrocínio e parcerias com empresas interessadas nesses públicos.  
+- Para essas categorias, podem ser exploradas oportunidades de patrocínio e parcerias com empresas interessadas nesses públicos.  
 📢 Para especialidades com menor adesão, como Psiquiatria e Dermatologia, campanhas segmentadas podem atrair novos profissionais.  
 
 ## 🗺️ Distribuição Geográfica
@@ -47,7 +47,7 @@ As TOP 5 especialidades na plataforma são:
 - Há barreiras para a participação? ❌  
 Estratégias como eventos exclusivos ou gamificação podem incentivar mais interações! 🎯
 
-## 📢 Engajamento na Rede
+## Engajamento na Rede
 
 💬 46% dos usuários interagem ativamente (postagens, comentários ou curtidas).
 - Esse público pode ser segmentado para cursos, eventos e anúncios personalizados.  
@@ -63,16 +63,16 @@ Estratégias como eventos exclusivos ou gamificação podem incentivar mais inte
 - Facilitar a interação, tornando os botões e recursos mais acessíveis. 🖱️
 - Campanhas de engajamento, como enquetes, desafios e benefícios exclusivos. 🎁
 
-## 📈 Padrão de Acessos ao Longo do Tempo
+## Padrão de Acessos ao Longo do Tempo
 
-🔥 Picos em outubro de 2021 e fevereiro de 2023.
+📈 Picos em outubro de 2021 e fevereiro de 2023.
 - Podem estar relacionados a feiras de negócios, indicando que eventos ajudam a prospectar novos usuários. 🎪
 - Outra hipótese: crises sanitárias e surtos de doenças podem ter aumentado a demanda por informações médicas na plataforma. 🦠  
 🔍 Vale investigar o impacto de eventos de saúde pública no engajamento da rede!
 
 📊 Apesar das oscilações, há uma tendência de crescimento no número de acessos entre 2021 e 2023, indicando maior relevância da plataforma ao longo do tempo. 🚀
 
-##🎯 Resumo dos Principais Insights para os Times de Marketing e Comercial
+# Resumo dos Principais Insights para os Times de Marketing e Comercial
 ✔️ Explorar parcerias e patrocínios para especialidades médicas mais ativas.  
 ✔️ Criar campanhas regionais para aumentar a adesão em estados com menos usuários.  
 ✔️ Identificar os temas das comunidades mais engajadas e replicar boas práticas em outras comunidades.  
@@ -81,7 +81,7 @@ Estratégias como eventos exclusivos ou gamificação podem incentivar mais inte
 ✔️ Implementar estratégias para estimular interações, reduzindo o número de usuários passivos.  
 ✔️ Aproveitar eventos e crises sanitárias para fortalecer a presença da plataforma em momentos estratégicos.
 
-# ⚠️ Principais Desafios Encontrados no Projeto
+# Principais Desafios Encontrados no Projeto ⚠️
 - Organização e entendimento da dinâmica dos dados, garantindo uma análise coerente.
 - Elaboração de consultas SQL complexas, especialmente para métricas específicas.
 - Escolha dos insights mais significativos, para garantir um dashboard útil e acionável.
