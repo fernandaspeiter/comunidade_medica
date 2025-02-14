@@ -49,10 +49,12 @@ Foram disponibilizadas sete tabelas, contendo as seguintes variáveis:
 | **created_at**       | Data de criação da interação (POST, COMMENT ou LIKE) |
 | **deleted_at**       | Data de deleção da interação (POST, COMMENT ou LIKE) |
 | **type**             | Tipo de interação (POST ou COMMENT) |
-| **parent_id**        | Identificador do item pai referente à interação do usuário (Por exemplo, o usuário X comentou no post do usuário Z). |
+| **parent_id**        | Identificador do item pai referente à interação do usuário (Por exemplo, o usuário X comentou no post do usuário Z). |  
 | **forum_content_id** | ID da observação na tabela conteudo_forum |
 
-Inicialmente, as tabelas foram importadas por meio da construção de um script no **MySQL**. Em seguida, foi elaborado um **diagrama ER**, proporcionando uma melhor visualização da organização das tabelas e seus relacionamentos.
+
+Inicialmente, as tabelas foram importadas por meio da construção de um script no **MySQL**.   
+Em seguida, foi elaborado um **diagrama ER**, proporcionando uma melhor visualização da organização das tabelas e seus relacionamentos.
 
 - 🔗 O canal **Hashtag Programação** ensina como importar um banco de dados para o MySQL Workbench: [Link](https://www.youtube.com/watch?v=EhT-e4IZrkM)
 - 🔗 O canal do **Tiago A. Silva** no YouTube mostra como criar esse tipo de diagrama: [Link](https://www.youtube.com/watch?v=n8a7Q8JiYCs)
@@ -61,7 +63,7 @@ Inicialmente, as tabelas foram importadas por meio da construção de um script 
 ![fig1 ER_diagrama_sql](https://github.com/user-attachments/assets/e331a2be-5da6-41d6-8a6a-bd6571f32ba6)
 
 
-### Recortes das tabelas:
+## Recortes das tabelas:
 
 - **Figura 2**: Tabela usuario  
 ![fig2 tabela usuario](https://github.com/user-attachments/assets/25029e05-4959-4f24-b634-56becc74410d)
@@ -85,5 +87,5 @@ Inicialmente, as tabelas foram importadas por meio da construção de um script 
 ![fig8 tabela_forum_likes](https://github.com/user-attachments/assets/e3fdc6b3-d22c-4bf0-ba8d-dbecca937532)
 
 
-Próxima etapa:
+Próxima etapa: [Entregáveis no SQL](https://fernandaspeiter.github.io/comunidade_medica/)
 
